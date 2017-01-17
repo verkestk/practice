@@ -7,10 +7,10 @@
 #### Expected Behavior
 <!-- Clearly describe how the behavior should be different. -->
 
-#### Engineering Notes ####
+## Engineering Notes ####
 <!-- Put technical notes, reminders, things engineers care about here.  -->
 
-#### Test Requirements ####
+## Test Requirements ####
 <!-- Checklist of things to test to be considered completed. -->
 
   - [ ] TBD ("It works!" isn't good enough.)
