@@ -1,23 +1,21 @@
-#### Description ####
+## Description
 <!-- Clearly describe what this is here. -->
 
-#### Blockers ####
+## Blockers
 <!-- list any issues that block this. -->
 
 - [ ] #0000 Blocker Title
 
-#### Subtasks ####
+## Subtasks
+<!-- list any subtasks. -->
 
 - [ ] #0000 Subtask Title
 
-#### Engineering Notes ####
+## Engineering Notes
 <!-- Put technical notes, reminders, things engineers care about here.  -->
 
-#### Test Requirements ####
+## Test Requirements
 <!-- Checklist of things to test to be considered completed. -->
 
-  - [ ] Autocomplete works with the word `Portable`
-  - [ ] 
-  - [ ] Verify deploy X by (how?)
+  - [ ] TBD ("It works!" isn't good enough.)
   - [ ] ...
-
