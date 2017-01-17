@@ -1,5 +1,6 @@
 ## Description ##
 <!-- Clearly describe what this is here. -->
+<!-- Include a screenshot if applicable. -->
 
 #### Current Behavior
 <!-- Clearly provide steps to reproduce the problem. -->
